@@ -1,2 +1,6 @@
 # hello-world
-A hello wold project - Git (Version Control System) and Github (Code Sharing and Collaboration Platform) - from AlexGarret
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
